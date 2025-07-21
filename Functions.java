@@ -11,7 +11,7 @@ class Student {
     // Your code goes here
 }
 
-public class function {
+public class Functions {
     public static void main(String[] args) {
         Student[] students = new Student[] {
             new Student("Morgan", "Freeman"),
